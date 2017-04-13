@@ -1,6 +1,9 @@
 # Site settings
 title: Bart van Aert
-email: me@bartvanaert.me
+email: <style type=”text/css”>
+p span.displaynone { display:none; }
+</style>
+<p>me@<span class=”displaynone”>null</span>bartvanaert.me</p>
 url: https://bartvanaert.me
 description: "It's me."
 

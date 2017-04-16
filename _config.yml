@@ -15,9 +15,7 @@ footer: bartvanaert.me
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url:
-  - title: facebook
-    url:
+    url: https://twitter.com/Aertbei
   - title: github
     url: https://github.com/Aertbei
 
